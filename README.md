@@ -3,7 +3,7 @@ Test with Tokens!
 
 Login to Get Token
 -------------
->**URL** : http://baseurl.tld/login/
+>**URL** : http://test.rsdn.ir/login/
 >**Method** : **POST**
 
 Request Body:
@@ -25,7 +25,7 @@ eyJhbGciOiJIUzI1NiIsImV4cCI6MTQyNTk4MDA1OSwiaWF0IjoxNDI1ODkzNjU5fQ.eyJ1c2VyIjoic
 
 Test Token
 -------------
->**URL** : http://baseurl.tld/test/
+>**URL** : http://test.rsdn.ir/test/
 >**Method** : **GET**
 
 Request **Header**:
